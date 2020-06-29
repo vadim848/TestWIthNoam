@@ -2,3 +2,5 @@ Online changes 1
 Online changes 2 NOAM
 
 Local Vadim added line
+
+Local Vadim added line 2
