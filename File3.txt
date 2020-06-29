@@ -1,2 +1,4 @@
 Online changes 1
 Online changes 2
+
+Local Vadim added line
